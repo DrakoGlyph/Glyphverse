@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Champions of Id/Glyphsid.md",
+            "file": "Riverport/Characters/Sköll.md",
             "mode": "source",
             "source": false
           }
@@ -19,63 +19,84 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "db09dbd8a18722f2",
-    "type": "mobile-drawer",
+    "id": "70c52cf83be4a76a",
+    "type": "split",
     "children": [
       {
-        "id": "dbbd45d86202d779",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "849a5fa628e15134",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "654a87ed150ae375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e23ab4477e3f696",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9e39a9a77d98783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "1a3b47593f3ea127",
-    "type": "mobile-drawer",
+    "id": "3127d429a2265607",
+    "type": "split",
     "children": [
       {
-        "id": "5fa822a9ae243239",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Champions of Id/Glyphsid.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "92b2c3ffc3e208c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598fc937a2da3976",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Riverport/Characters/Sköll.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "active": "e8cb643381aeaf73",
   "lastOpenFiles": [
-    "Champions of Id/Glyphsid.md",
-    "Riverport/Characters/Draconaster.md",
-    "Riverport/Characters/Rick O'Sheigh.md"
+    "Riverport/Characters/Sköll.md",
+    "Riverport/Lake Origin.md",
+    "Riverport/Werewolf.md",
+    "Riverport/Threads of Fate.md",
+    "Riverport/Weaver and Weaver Tailoring.md",
+    "Riverport/Characters/Melbourne Weaver.md",
+    "Riverport/Storylines/Weaver and Weaver (Storyline).md",
+    "Riverport/Universe 63.md",
+    "Riverport/Characters/Teams/M.I.S.T. (Team).md",
+    "Riverport/Characters/Teams/Weaver Network.md"
   ]
 }

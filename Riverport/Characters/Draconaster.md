@@ -1,3 +1,4 @@
+#Hero #Constellation #Dragon
 Also known as *The Constellation Draco*, *Ambassador of the Stars*
 
 Draconaster is a member of the [[Constellations]], a group of celestial beings brought to life through the collective power of human imagination.
@@ -17,5 +18,5 @@ When brought before [[The Zodiac]], Draconaster defended his decision, citing th
 
 ## Heartbreak and Kinship
 Inevitably, Draconaster would outlive his lover. The curse of long life, however, would not weigh on the dragon. He cherished every moment, and knew they were numbered. He was fine, he would tell himself, but lonely.
-He would find himself on [[Mount Sakura]], a botanical marvel of a mountain covered in sakura trees, and it was here that he would meet the hero [[Soulmaurai]], fresh from his own heartbreak. The two would bond and become close friends.
+He would find himself on [[Mount Sakura]], a botanical marvel of a mountain covered in sakura trees, and it was here that he would meet the hero [[Tamashī Haiku|Soulmaurai]], fresh from his own heartbreak. The two would bond and become close friends.
 

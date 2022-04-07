@@ -1,0 +1,1 @@
+This article is about the story named *Weaver and Weaver*. For the shop owned by the Weaver in each timeline, see [[Weaver and Weaver Tailoring]].

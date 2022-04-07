@@ -9,7 +9,7 @@
 ## The Veilwood Charter
 ## List of known Werewolves
 
-- [[Grayson Lunabellum]] a.k.a Fenrir
+- [[Grayson Lunabellum|Fenrir]]
 - [[Sköll]]
 - [[Hati]]
 - [[Faux Pas]]

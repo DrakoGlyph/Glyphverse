@@ -1,3 +1,5 @@
+#Villain #BabylonArchive #Ark-Hive
+
 Exile is a rogue Swarm Nanobot, once a part of [[Ark-Hive]]. It is his belief that in order to acquire all knowledge in universe, it must be taken by force. It is this belief that made him an exile, as Ark-Hive isolated that programming on a single nanobot and discarded it, intending for it to land in a star or burn up in an atmosphere.
 
 ## Hunter of Knowledge

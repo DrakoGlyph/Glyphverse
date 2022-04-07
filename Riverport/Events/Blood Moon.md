@@ -1,7 +1,7 @@
 
 The Blood Moon is a lunar event caused by the Berserker's Comet causing the moon to glow an eerie red. It has been documented to increase irritability and anger based disorders, as well as force Werewolves into their wolf state.
 
-The Berserker's Comet has passed by Earth on two notable occasions, once during the [[Riverport (Prime Canon)#Age of Fairy Tales]], and once during modern day. Both had lasting impacts regarding public view of lycanthropes as well as piviotal roles in the [[Silver Bullets]].
+The Berserker's Comet has passed by Earth on two notable occasions, once during the [[Riverport (Prime Canon)#Age of Fairy Tales|Age of FairyTales]], and once during modern day. Both had lasting impacts regarding public view of lycanthropes as well as piviotal roles in the [[Silver Bullets]].
 
 The first Blood Moon was when [[Marion Lee Baker]] discovered her grandmother was a werewolf, promptly killing her and beginning the Silver Arrows, which would take the name Silver Bullets during the Industrial Revolution.
 

@@ -29,7 +29,7 @@ Against Hati's opposition, Sköll decided he would try anyway. [[Melbourne Weave
 Sköll, lost adrift in the endless plane, went insane. When he did finally fall into another universe, he sought out his alternate self, Hati trying to reason with him the whole time. When he did finally encounter the Sköll of this universe, he slew him where he stood, apparently draining the power from him, calling him an "Imposter". Spending so much time in the Silk Roads, however, had opened his (and Hati's) consciousness to the Multiverse, and the seams holding them together. He was then able to slip between them and went on a spree. In every universe, he would seek out the Hati and Sköll, slay them, and drain their power. This corrupted Sköll, until he was no longer the werewolf. His body melded with the shadows, and his mind was lost to the madness. Under the new name *Mooneater*, he sought to return to [[Riverport (Prime Canon)]] to exact his revenge.
 
 ## [[Ragnarok]]
-When Mooneater finally returned to Prime Canon, he had been transformed completely. He was no longer a mortal being of flesh and blood, but a living manifestation of shadows incarnate. His return was predicted by [Sundancer](Hati) in her dreams.
+When Mooneater finally returned to Prime Canon, he had been transformed completely. He was no longer a mortal being of flesh and blood, but a living manifestation of shadows incarnate. His return was predicted by [[Hati|Sundancer]] in her dreams.
 Sköll, having eaten the moon, remained in darkness. Hati, having caught up to the sun, now dances in the light. The prophecy fulfilled, Ragnarok begins. 
 Though she fought valiantly, the newly redeemed Hati was unable to destroy her former partner, letting him go free.
 
