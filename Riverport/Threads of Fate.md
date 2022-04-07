@@ -1,0 +1,1 @@
+The Threads of Fate are a typically unseen force in the [[Riverport (Metaverse)]], tying the lives and fates of those within. They can be manipulated to alter Fate by a Weaver, though until the [[Council of Weavers]] is formed, a Weaver can only affect their own universe.
