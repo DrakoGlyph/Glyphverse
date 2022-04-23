@@ -2,7 +2,7 @@
 also known as *Sundancer*
 
 ## Early Life
-Hati was often the "neither seen, nor heard" kind of child. She would spend much of her away from home. She had plenty to avoid: a nagging sibling, a tyrannical father, an unhappy mother. She was fond of nature, and her few friends, even among werewolf kin.
+Hati was often the "neither seen, nor heard" kind of child. She would spend much of her time away from home. She had plenty to avoid: a nagging sibling, a tyrannical father, an unhappy mother. She was fond of nature, and her few friends, even among werewolf kin.
 
 ## [[The Monster at Summer Camp]] 
 Hati, as well as couple of other kids from [[Veilwood Charter]], would be sent to the camp at [[Lake Origin]]. She would attempt to befriend anyone who would give her the time of day, but be particularly fond of [[Grayson Lunabellum]]. She would be a part of their clique until they defeated [[Sköll]] and prevented the ritual, where she would leave them to look after him, partially out of concern for him, partially out of quiet sadness that Grayson would never love her back.

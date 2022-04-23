@@ -1,22 +1,37 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Riverport/Storylines",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
+    },
+    {
+      "query": "tag:#Hub",
+      "color": {
+        "a": 1,
+        "rgb": 1368364
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -1,
+  "showArrow": false,
+  "textFadeMultiplier": -2.7,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5397604874008088,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 6.4957264957265,
+  "linkStrength": 0.641025641025641,
+  "linkDistance": 30,
+  "scale": 0.6316046762907515,
   "close": false
 }

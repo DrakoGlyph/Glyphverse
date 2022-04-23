@@ -1,0 +1,1 @@
+The Fabric of the Universe exists as a singular unit, a component of the [[Silk Roads]], and of the greater [[Veil of Infinite Possibilities]]. 

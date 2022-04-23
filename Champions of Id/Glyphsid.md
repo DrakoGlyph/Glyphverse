@@ -1,4 +1,4 @@
-#World
+#Hub #World
 
 *Glyphsid*, more casually referred to as just *Id*, is the central universe in the [[Glyphverse]]. It is home to the [[Champions of Id]], the [[Worldforge]], and the [[Prime Supercomputer]]. 
 

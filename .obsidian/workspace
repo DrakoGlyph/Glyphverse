@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8cb643381aeaf73",
+        "id": "489c6791f3d18940",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Riverport/Characters/Sköll.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Riverport/Characters/Sköll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e8cb643381aeaf73",
+  "active": "489c6791f3d18940",
   "lastOpenFiles": [
-    "Riverport/Characters/Sköll.md",
-    "Riverport/Lake Origin.md",
-    "Riverport/Werewolf.md",
-    "Riverport/Threads of Fate.md",
-    "Riverport/Weaver and Weaver Tailoring.md",
-    "Riverport/Characters/Melbourne Weaver.md",
-    "Riverport/Storylines/Weaver and Weaver (Storyline).md",
-    "Riverport/Universe 63.md",
-    "Riverport/Characters/Teams/M.I.S.T. (Team).md",
-    "Riverport/Characters/Teams/Weaver Network.md"
+    "Riverport/Characters/Grayson Lunabellum.md",
+    "Riverport/Characters/Marion Baker X.md",
+    "Riverport/Characters/Marion Baker VIII.md",
+    "Riverport/Sword of Souls.md",
+    "Riverport/Locations/OnceAgain Corporation.md",
+    "Veil of Infinite Possibilities.md",
+    "Fabric of the Universe.md",
+    "Riverport/Characters/Teams/Moonlight Investigations.md",
+    "Riverport/Silk Roads.md",
+    "Riverport/Characters/Hati.md"
   ]
 }
