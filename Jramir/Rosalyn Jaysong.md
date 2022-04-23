@@ -1,0 +1,1 @@
+Member of [[Drakkensgard]], wife of [[Drakken Veilwood]], mother of [[Glyph Veilwood]]
