@@ -7,91 +7,82 @@
         "id": "489c6791f3d18940",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Glyphs of the Elements.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "70c52cf83be4a76a",
-    "type": "split",
+    "id": "9d1df2cdd00aa7d2",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "654a87ed150ae375",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e23ab4477e3f696",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "c9e39a9a77d98783",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "d398165915b410ab",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "567a727086c0a706",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "3127d429a2265607",
-    "type": "split",
+    "id": "5e7c298ec60c62df",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "92b2c3ffc3e208c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "598fc937a2da3976",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "12bc8481e1f8ac6c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Glyphs of the Elements.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "489c6791f3d18940",
   "lastOpenFiles": [
-    "Riverport/Characters/Grayson Lunabellum.md",
-    "Riverport/Characters/Marion Baker X.md",
-    "Riverport/Characters/Marion Baker VIII.md",
-    "Riverport/Sword of Souls.md",
-    "Riverport/Locations/OnceAgain Corporation.md",
+    "Glyphs of the Elements.md",
+    "Glyph of Destruction.md",
     "Veil of Infinite Possibilities.md",
+    "Void Beyond.md",
+    "Dro'ung.md",
     "Fabric of the Universe.md",
-    "Riverport/Characters/Teams/Moonlight Investigations.md",
-    "Riverport/Silk Roads.md",
-    "Riverport/Characters/Hati.md"
+    "Origin.md",
+    "Jramir/Characters/Yggdracon.md",
+    "Jramir/Realms/Dragon Realms.md",
+    "Jramir/Feymyr.md"
   ]
 }

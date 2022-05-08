@@ -13,10 +13,9 @@ He would learn to store his Constellation powers in a cape, adorned with his sta
 It was on one of these walkabouts that he fell in love, and decided to permanently reside on Earth.
 
 ## Sense of Duty
-As he lived among the people, Draconaster would grieve for the many tragedies that befell them, but he felt compelled to observe rather than interviene. It wasn't until his own lover was put in peril that he would risk himself for the sake of mortals.
-When brought before [[The Zodiac]], Draconaster defended his decision, citing that humans were the source of their power and protecting them was the least they could do to repay that gift. Persuaded, The Zodiac would grant Draconaster the title of Ambassador of the Stars, and grant him permission to act on the Constellations behalf.
+His love was [[Lunabelle Moondancer]], a beautiful Kitsune, held great power. A prophecy foretold that she was a [[Fatebender]], one of the few beings in the Glyphverse capable of changing the [[Threads of Fate]]. For this reason, she was constantly unter attack by villains. Draconaster, grief in his heart, decided to seal her in the moon, so he could look at her every night, even if he couldn't hold her.
 
 ## Heartbreak and Kinship
-Inevitably, Draconaster would outlive his lover. The curse of long life, however, would not weigh on the dragon. He cherished every moment, and knew they were numbered. He was fine, he would tell himself, but lonely.
+After sealing away Lunabelle, He was fine, he would tell himself, but lonely.
 He would find himself on [[Mount Sakura]], a botanical marvel of a mountain covered in sakura trees, and it was here that he would meet the hero [[Tamashī Haiku|Soulmaurai]], fresh from his own heartbreak. The two would bond and become close friends.
 

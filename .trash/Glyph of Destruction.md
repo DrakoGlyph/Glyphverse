@@ -1,0 +1,1 @@
+The Glyph of Destruction one of the [[Glyphs of the Elements]], and the heart of [[Dro'ung]].

@@ -1,0 +1,1 @@
+Gold Dragon, one of the [[Brothers Three]], founder of both [[Order of the Dragonflies]] and the [[Rejavok Alliance]]. 

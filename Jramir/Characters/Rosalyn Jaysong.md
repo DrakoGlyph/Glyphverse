@@ -1,0 +1,1 @@
+Member of [[Second Dragon's Guard]], wife of [[Drakken Veilwood]], mother of [[Glyph Veilwood]]

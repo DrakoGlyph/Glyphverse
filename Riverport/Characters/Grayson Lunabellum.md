@@ -1,5 +1,5 @@
 #Hero #Werewolf
-Also known as *Fenrir*, *The Wolf Arcane*
+Also known as *Fenrir*, *Wolf Arcane*
 
 ## [[The Monster at Summer Camp]]
 Grayson, social outcast as most [Werewolves](Werewolf) are, is sent to Summer Camp at [[Lake Origin]]. It is here he first meets [[Lucas Kettleburn]] and [[Marion Baker X]], where they become friends, and band together to stop [[Sköll]] from unleashing an ancient curse.
@@ -49,5 +49,9 @@ As he was learning to use the Gauntlets, he would swear he could still hear Arti
 
 ## Dark Star
 A World-hopping [[Draconaster]] from the [[Darkstar]] Universe came, gasping for breath and only one star left in his cape, begging for help saving his universe. The [[Council of Weavers]], against [[Melbourne Weaver|The First Prime Weaver's]] advice, declined to help. When [[Melbourne Weaver|Weaver 63]] showed them that banishing Exile to the Void Beyond caused this, they reluctantly reconsidered. 
-Upon arriving, the team dispatched to *Dark Star* found the [[Void Beyond]] tearing the [[Riverport (Metaverse)]] apart, threatening every Universe within. 
+Upon arriving, the team dispatched to *Dark Star* found the [[Void Beyond]] tearing the [[Riverport (Metaverse)]] apart, threatening every Universe within. Dark Star Draconaster eventually gave the last of his Celestial energy to restart Sol, but the sky would never be the same. Grayson would take the cape, and the power that remained.
+
+## Aspect of Origin
+
+
 

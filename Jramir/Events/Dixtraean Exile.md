@@ -1,0 +1,2 @@
+Dissenters of the [[Great Dragon War]], specifically those who opposed the [[Rejavok Alliance]], were given the land to the east of [[Dragon's Shelter]], where they founded their own land, the empire of [[Dixtrae]].
+It is because of this event that many Dixtraeans resent Rejavok.

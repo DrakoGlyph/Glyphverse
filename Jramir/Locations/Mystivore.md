@@ -1,0 +1,1 @@
+The Mystivore is a cursed section of the [[Dragon's Shelter]] wherein all Magic is consumed by the curse. Additionally, the color has been drained from all foliage in the area.

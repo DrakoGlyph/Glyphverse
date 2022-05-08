@@ -1,0 +1,1 @@
+The name given to Shards of [[Glyphsid]] that broke off during the slaying of [[Origin]]. With his dying breath, Origin created worlds around the Shards, one in [[Riverport (Metaverse)]] and one in [[Dragon Realms]].

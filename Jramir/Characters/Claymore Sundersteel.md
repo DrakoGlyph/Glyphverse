@@ -1,0 +1,1 @@
+Apprentice of [[Taggar Mythforger]]. Husband of [[Rosaria Jaysong]], father of [[Rosalyn Jaysong]]. Known for his renowned smithing skills, said to be on par with House Sundersteel. Was an orphan taken in by the Dwarves.

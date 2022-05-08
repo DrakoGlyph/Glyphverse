@@ -1,0 +1,1 @@
+Merchant Guild Leader and later Emperor of [[Dixtrae]]. Father of [[Tiaren Orochi]] and [[Fafwyr Orochi]], Husband of [[Viper Ourobouros]]. Member of the [[Hand of Fate]].

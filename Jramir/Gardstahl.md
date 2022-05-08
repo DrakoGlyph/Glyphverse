@@ -1,0 +1,1 @@
+Legendary shield forged by [[Taggar Mythforger]] and weilded by [[Avagard]]. It is said to be able to stop time for the weilder if they are in immediate mortal danger.
